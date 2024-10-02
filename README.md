@@ -1,5 +1,5 @@
 <h2>HTML Image</h2>
-<img src="githubprofile.jpg" alt="Trulli" width="500" height="333">
+<img src="githubprofile.jpg" alt="Trulli" width="1080" height="1620">
 
 <h1 align="center">Winston Lesigues</h1>
 <h1 align="center">Software Developer</h1>
